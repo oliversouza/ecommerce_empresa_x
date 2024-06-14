@@ -36,3 +36,8 @@ function soma(a,b){
     return a+b;
 }
  ```
+
+ ## Listas de tarefas
+
+ - [ x ] Lista de tarefas
+ - [ ] Integração com outros pagamentos
