@@ -25,3 +25,14 @@
 [Google](https://www.google.com)
 
 [https://www.google.com](https://www.google.com)
+
+## links imagens
+[![Logo python](img/python.png)](https://www.google.com)
+
+## código da função soma
+
+```javascript
+function soma(a,b){
+    return a+b;
+}
+ ```
