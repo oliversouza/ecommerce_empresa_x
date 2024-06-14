@@ -39,5 +39,5 @@ function soma(a,b){
 
  ## Listas de tarefas
 
- - [ x ] Lista de tarefas
+ - [x] Lista de tarefas
  - [ ] Integração com outros pagamentos
