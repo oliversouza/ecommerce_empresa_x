@@ -19,3 +19,8 @@
 ### Imagem local
 
 ![Logo python](img/python.png)
+
+## Links interessantes
+
+[Google](https://www.google.com)
+[https://www.google.com](https://www.google.com)
